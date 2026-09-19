@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.difish.newsleep.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ServerLevelSleepMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
