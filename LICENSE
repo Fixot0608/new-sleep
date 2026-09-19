@@ -3,29 +3,34 @@ All Rights Reserved
 Copyright (c) 2026 com.difish (NewSleep Mod)
 
 ================================================================================
-MODPACK PERMISSION NOTICE
+MODPACK PERMISSION NOTICE (OFFICIAL PLATFORMS ONLY)
 ================================================================================
 
-Permission is hereby granted, free of charge, to any person or entity
-obtaining a copy of this software, to include the original, unmodified
-compiled binary (.jar file) of this mod in any modpacks, mod assemblies,
-or server bundles, whether public or private, on any modding platforms
-(including but not limited to CurseForge, Modrinth, Feed The Beast,
-ATLauncher, and Technic), without requiring explicit or written permission
-from the copyright holder.
+Permission is hereby granted, free of charge, to include this mod in public or
+private modpacks, provided that the modpack is hosted EXCLUSIVELY on official
+modding platforms: Modrinth (modrinth.com) or CurseForge (curseforge.com).
+
+On these approved platforms, this mod MUST be configured strictly as a remote
+dependency (manifest-driven download). The compiled binary (.jar file) will be
+downloaded directly from the author's official project page.
 
 ================================================================================
-RESTRICTIONS AND PROHIBITIONS
+RESTRICTIONS AND PROHIBITIONS (THIRD-PARTY SITES)
 ================================================================================
 
-1. STRICTLY PROHIBITED: You may not modify, alter, decompile, reverse engineer,
-   or source-cop copy any portion of this mod's source code or assets for use
+1. STRICTLY PROHIBITED: You may not re-upload, mirror, or distribute the physical
+   .jar file of this mod on any third-party websites, forums, or standalone
+   launchers (including but not limited to Minecraft Inside, Ru-Minecraft,
+   Minecraft-Main, or direct file sharing services like Google Drive and MediaFire).
+
+2. STRICTLY PROHIBITED: Embedding or bundling the physical .jar file of this mod
+   inside any direct ZIP archives, RAR archives, or custom installers intended
+   for redistribution outside of official Modrinth/CurseForge launcher ecosystems
+   is strictly prohibited.
+
+3. STRICTLY PROHIBITED: You may not modify, alter, decompile, reverse engineer,
+   or source-copy any portion of this mod's source code or assets for use
    in other public software projects without direct written consent from the author.
-
-2. STRICTLY PROHIBITED: You may not redistribute, re-upload, or mirror this mod
-   as a standalone file or standalone download on any external third-party
-   websites, forums, or standalone launchers outside the scope of an integrated
-   modpack.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
